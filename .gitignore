@@ -8,9 +8,10 @@ __pycache__/
 # ===============================
 # Virtual Environments
 # ===============================
-venv/
+.virtual_
+book_recommendation/
 env/
-.venv/
+book_recommendation
 ENV/
 
 # ===============================
