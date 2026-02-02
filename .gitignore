@@ -47,7 +47,7 @@ desktop.ini
 # Environment Variables
 # ===============================
 .env
-
+/venv
 # ===============================
 # Build / Distribution
 # ===============================
